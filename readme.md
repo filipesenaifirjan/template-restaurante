@@ -1,0 +1,1 @@
+Template simples de landpage de restaurante com cardápio, fotos e contatos
